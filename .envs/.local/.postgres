@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=netflix
+POSTGRES_USER=kBtfhzOpbkymCurAUBHTcPMAwyoLccdC
+POSTGRES_PASSWORD=rbX6jqtwvIsEUIQ9cqvWdVNEcqvsSWXy92U56yqacZz5LIO6hFsprwBUxyBGQiHp
